@@ -1,0 +1,8 @@
+{
+  "domain": "jike_gateway_ac",
+  "name": "JiKe GateWay AC",
+  "documentation": "https://github.com/xz0609/jike_gateway_ac-ha",
+  "dependencies": [],
+  "codeowners": ["@xz0609"],
+  "requirements": ["requests","js2py"]
+}
