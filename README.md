@@ -34,4 +34,4 @@ device_tracker:
 网关AC默认是一分钟同步一次，所以扫描间隔时间不要设置太低了，没啥用，浪费资源。
 按以上配置测试过，基本上90秒左右，HA里有反馈
 
-![截图](https://raw.githubusercontent.com/xz0609/JiKe_GateWay_AC_HA/main/%E6%88%AA%E5%9B%BE-4085187.jpg)
+![截图](https://raw.githubusercontent.com/xz0609/JiKe_GateWay_AC_HA/main/image-4085187.jpg)
