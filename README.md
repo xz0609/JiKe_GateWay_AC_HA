@@ -1,4 +1,3 @@
-[md]
 ## 分析过程
 当前集客网关X86版本：V3.1 Build2020121800  
 下载地址：http://file.cnrouter.com/index.php/Index/apbeta.html  
@@ -36,6 +35,3 @@ device_tracker:
 按以上配置测试过，基本上90秒左右，HA里有反馈
 
 ![截图](https://raw.githubusercontent.com/xz0609/JiKe_GateWay_AC_HA/main/4085187.jpg)
-
-
-[/md]
